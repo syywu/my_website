@@ -17,18 +17,21 @@ header h1{
 .nav-bar{
     position: sticky;
     background-color: rgb(245, 78, 128);
-    padding: 10px;
-    max-width: 100%;
+    padding: 20px;
+    top: 150px;
+    z-index: 1;
 }
 .nav-bar ul{
     text-align: center;
     white-space: nowrap;
-    max-width: 1400px;
+    max-width: 1200px;
     margin: 0 auto;
 }
-.nav-bar ul li{
+.nav-bar li{
     display: inline-block;
      list-style-type: none;
+     font-size: 20px;
+     width: 35%;
 }
 .nav-bar li a{
     text-decoration: none;
