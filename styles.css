@@ -1,5 +1,13 @@
+header h1{
+    background-color: #cc3d97;
+    color: white;
+    text-align: center;
+}
 .nav-bar{
     position: fixed;
     left: 0px;
     top: 0px;
+}
+.nav-bar ul li{
+ list-style-type: none;
 }
