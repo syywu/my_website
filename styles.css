@@ -18,7 +18,7 @@ header h1{
     position: sticky;
     background-color: rgb(245, 78, 128);
     padding: 20px;
-    top: 150px;
+    top: 1px;
     z-index: 1;
 }
 .nav-bar ul{
