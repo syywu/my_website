@@ -49,3 +49,15 @@ article h2 p{
     text-align: center;
     font-size: 15px;
 }
+section h3{
+    text-align: center;
+    color: #0d020251;
+}
+section ul{
+    text-align: center;
+}
+section li{
+    display: inline-block;
+    width: 20%;
+    list-style-type: none;
+}
