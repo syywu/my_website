@@ -23,11 +23,15 @@ header h1{
 .nav-bar ul{
     text-align: center;
     white-space: nowrap;
+    max-width: 1400px;
+    margin: 0 auto;
 }
 .nav-bar ul li{
     display: inline-block;
      list-style-type: none;
-
+}
+.nav-bar li a{
+    text-decoration: none;
 }
 article h2{
     text-align: center;
