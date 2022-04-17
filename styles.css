@@ -35,11 +35,17 @@ header h1{
 }
 .nav-bar li a{
     text-decoration: none;
+    color: #e6c7ddf4;
+}
+.nav-bar li a:hover{
+    text-decoration: overline;
 }
 article h2{
     text-align: center;
     color: #0d020251;
+    font-size: 20px;
 }
 article h2 p{
     text-align: center;
+    font-size: 15px;
 }
