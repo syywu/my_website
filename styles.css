@@ -14,6 +14,10 @@ header h1{
 }
 .banner{
     position: relative;
+    text-align: center;
+}
+.banner img{
+    width: 100%;
 }
 .nav-bar{
     position: sticky;
